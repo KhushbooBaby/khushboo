@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lan="eng">
+<head><title>welcome</title></head>
+<body><p>this is my new website </p>
+<img src="1.jpg" width="100px" alt="my food">
+<a href="http://www.google.com">google</a>
+</body>
+</html>
